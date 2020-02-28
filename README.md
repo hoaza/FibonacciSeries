@@ -1,3 +1,3 @@
 # Hello Github
 
-This is dog.
+This is dog
